@@ -14,8 +14,12 @@
 - Fuente [Google Font](https://fonts.google.com/)
 
 ### Imagenes
-- [Convertidor de imagen](https://convertio.co/es/image-converter/)
-- [Comprimir Imagen](https://www.iloveimg.com/es/comprimir-imagen/comprimir-jpg)
+- Convertidor de images: [converttio.co](https://convertio.co/es/avif-convertidor/)
+- Comprimir imagenes: [Comprimir Imagen](https://www.iloveimg.com/es/comprimir-imagen/comprimir-jpg)
+
+### Test
+- Test pages: [Webpagetest](https://www.webpagetest.org/)
+- Test pagespeed by Google: [Pagespeed](https://pagespeed.web.dev/?hl=es)
 
 ### TUTORIALES
 
