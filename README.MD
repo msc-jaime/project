@@ -26,6 +26,11 @@
 - Tutorial [HTML](https://www.w3schools.com/html/default.asp)
 - Git [Git](https://git-scm.com/docs)
 
+### OTROS
+
+- [Métodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [Estados HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
+
 ### ACTIVIDADES
 
 ### TAREA 1

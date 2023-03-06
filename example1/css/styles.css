@@ -6,6 +6,7 @@ body {
 .contenido {
     max-width: 800px;
     background-color: #eeeeee;
+    padding: 0px 50px;
 }
 .caja1 {
     background-color: #4158D0;
@@ -32,3 +33,29 @@ body {
     width: 100px;
     height: 100px;
 }
+
+table, td, th {
+    
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #eeeeee;
+}
+
+th {
+    text-align: center;
+    height: 40px;
+    background-color: darkcyan;
+    color: #eeeeee;
+}
+
+td, th  {
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+
