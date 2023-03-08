@@ -1,0 +1,93 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .options {
+            float: left;
+            width: 20%;
+            text-align: center;
+        }
+
+        .options a {
+            background-color: #e5e5e5;
+            padding: 8px;
+            margin-top: 7px;
+            display: block;
+            width: 100%;
+            color: black;
+        }
+
+        .main {
+            float: left;
+            width: 60%;
+            padding: 0 20px;
+        }
+
+        .course {
+            background-color: #ff8000;
+            color: white;
+            float: left;
+            width: 20%;
+            padding: 10px;
+            text-align: center;
+        }
+
+        #header {
+            background-color: #003333;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+
+        #footer {
+            background-color: black;
+            text-align: center;
+            padding: 10px;
+            margin-top: 7px;
+            color: white;
+
+            @media only screen and (max-width:620px) {
+
+                /* For mobile phones: */
+                .options,
+                .main,
+                .course {
+                    width: 100%;
+                }
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <h1>Welcome to EDUCBA</h1>
+    </div>
+    <div style="overflow:auto">
+        <div class="options">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Career</a>
+            <a href="#">Contact us</a>
+        </div>
+        <div class="main">
+            <h2>WHO IS EDUCBA?</h2>
+            <p> Learn Graphic designing, Animation, Game Development, Video Editing & more with our Online Certification
+                Courses</p>
+        </div>
+        <div class="course">
+            <h3><b>Courses</b></h3>
+            <p>Data science</p>
+            <p>Marketing</p>
+            <p>Excel</p>
+            <p>Design</p>
+        </div>
+    </div>
+    <div id="footer">© 2019 - EDUCBA. ALL RIGHTS RESERVED</div>
+</body>
+
+</html>

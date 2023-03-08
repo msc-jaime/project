@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,400;0,700;1,400&family=Roboto:wght@400;700&display=swap');
+
+/* Colors */
+
+:root {
+    --color-primary: #539165;
+    --color-secondary: #3F497F;
+    --color-other: #F7C04A;
+    --text-color-ligth: #F8F5E4;
+    --text-color-black: #222222;
+}
+
+body {
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:var(--text-color-black);
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+}
+
+/* Typography */
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    color: var(--color-other);
+    font-size: 34px;
+}
+
+p {
+    text-align: justify;
+}
+
+/* Btn */
+
+/* Layout */
+
+header {
+    background-color: var(--color-primary);
+    padding: 50px 0;
+    color: var(--text-color-ligth);
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: var(--color-secondary);
+    color: var(--text-color-ligth);
+    padding: 10px 0;
+}
+
+section {
+    padding: 30px 0;
+}

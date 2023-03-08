@@ -16,6 +16,7 @@
 ### Imagenes
 - Convertidor de images: [converttio.co](https://convertio.co/es/avif-convertidor/)
 - Comprimir imagenes: [Comprimir Imagen](https://www.iloveimg.com/es/comprimir-imagen/comprimir-jpg)
+- Crear imagenes: [Placeholder eje:1200x360](https://via.placeholder.com/1200x360)
 
 ### Test
 - Test pages: [Webpagetest](https://www.webpagetest.org/)
@@ -25,7 +26,7 @@
 
 - Tutorial [HTML](https://www.w3schools.com/html/default.asp)
 - Git [Git](https://git-scm.com/docs)
-
+- Tutorial HTML y CSS [internetingishard](https://internetingishard.netlify.app/html-and-css/index.html)
 ### OTROS
 
 - [Métodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)

@@ -2,11 +2,11 @@ body {
     background-color: #FF3CAC;
     background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
-
+/* dfsafsaf fdsafsad */
 .contenido {
     max-width: 800px;
     background-color: #eeeeee;
-    padding: 0px 50px;
+    padding: 0px 50px 50px 50px;
 }
 .caja1 {
     background-color: #4158D0;
@@ -14,6 +14,7 @@ body {
     width: 100px;
     height: 100px;
 }
+
 .caja2 {
     background-color: #0093E9;
     background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);

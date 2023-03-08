@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .menu {
+            float: left;
+            width: 25%;
+            text-align: center;
+        }
+
+        .menu a {
+            background-color: coral;
+            padding: 6px;
+            margin-top: 12px;
+            display: block;
+            width: 100%;
+            color: Black;
+        }
+
+        .main {
+            float: left;
+            width: 55%;
+            padding: 0 20px;
+        }
+
+        .right {
+            background-color: coral;
+            float: right;
+            width: 20%;
+            padding: 20px;
+            margin-top: 7px;
+            text-align: center;
+        }
+
+        @media only screen and (max-width:550px) {
+
+            .menu,
+            .main,
+            .right {
+                width: 70%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div style="background-color:coral;padding:20px;text-align:center;">
+        <h1>MAINFRAME TUTORIALS</h1>
+    </div>
+    <div style="overflow:auto">
+        <div class="menu">
+            <a href="#">COBOL</a>
+            <a href="#">DB2</a>
+            <a href="#">CICS</a>
+            <a href="#">JCL/VSAM</a>
+        </div>
+        <div class="main">
+            <h2>Learn Mainframe</h2>
+            <p>Learn Mainframe from basic to advance level</p>
+        </div>
+        <div class="right">
+            <h2>Buy e-books</h2>
+            <p>To learn more in detail buy mainframe e-books</p>
+        </div>
+    </div>
+    <div style="background-color:gray;text-align:center;padding:12px;margin-top:9px;">© copyright TutorialBrain.com
+    </div>
+</body>
+
+</html>
